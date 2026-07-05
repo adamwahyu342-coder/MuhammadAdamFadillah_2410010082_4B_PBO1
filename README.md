@@ -2,8 +2,8 @@
 
 Data Mahasiswa:
 Nama: Muhammad Adam Fadillah
-NPM: [Isi NPM Kamu di sini]
-Kelas: [Isi Kelas Kamu di sini, misal: 4A Banjarbaru]
+NPM: [2410010082]
+Kelas: [4B TI REG BJB]
 
 Tentang Program
 Project ini dibuat untuk memenuhi tugas UAS PBO 1 dengan mengangkat studi kasus "Sistem Booking Lapangan Futsal". Program ini mengelompokkan lapangan menjadi dua tipe (Reguler dan Sintetis). Di dalamnya sudah diimplementasikan konsep enkapsulasi data, pewarisan sifat antar kelas, serta penanganan error input agar aplikasi tidak langsung menutup saat user salah ketik.
